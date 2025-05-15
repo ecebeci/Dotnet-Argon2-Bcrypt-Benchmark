@@ -1,0 +1,49 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Backup files
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Generated files
+*.generated.cs
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Other
+*.vs/
+
+# Benchmarks
+BenchmarkDotNet.Artifacts/
